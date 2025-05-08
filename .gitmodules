@@ -1,0 +1,3 @@
+[submodule "kics"]
+	path = kics
+	url = https://github.com/joaoalonsobarbosa/kics.git
