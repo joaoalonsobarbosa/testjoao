@@ -15,6 +15,6 @@ jobs:
           project_name: github.action-alonso
           cx_tenant: cx_seg
           base_uri: https://eu.ast.checkmarx.net/
-          cx_client_id: ${{ secrets.CLIENT_ID }}
-          cx_client_secret: ${{ secrets.SECRET }}
+          cx_client_id: alonso-github
+          cx_client_secret: VXYi15v17ti89Xyrj99Uf4wVaR1cadHa
           additional_params: --debug --scan-types sast,sca --file-filter !containers-resolution.json
