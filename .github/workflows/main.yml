@@ -16,5 +16,5 @@ jobs:
           cx_tenant: cx_seg
           base_uri: https://eu.ast.checkmarx.net/
           cx_client_id: alonso-github
-          cx_client_secret: VXYi15v17ti89Xyrj99Uf4wVaR1cadHa
+          cx_client_secret: T484ksGlI5WreT97feK81kqkQJzpCQBs
           additional_params: --debug --scan-types sast,sca --file-filter !containers-resolution.json
