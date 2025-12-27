@@ -22,9 +22,7 @@ namespace SQLi_1
 
                 Console.WriteLine("An error has occurred !!");
             }
-            
         }
-
         private static  string Encrypt(string plain)
         {
             return plain;
